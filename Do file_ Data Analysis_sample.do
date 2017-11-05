@@ -4,7 +4,6 @@
 						* created: OCTOBER, 28TH 2017 *
 						* Last update: OCTOBER, 29th 2017 *
 				* Coded by: BALA KRISHNA REDDY KESARI *
-				* Coded for : FHI 360 (DO FILE SAMPLE) 
 		                 * kkesari@results.org *
 			             * bkesari@outlook.com *
 			
